@@ -1,7 +1,5 @@
 
 
-
-
 public class Dice {
 
     private int sides;
